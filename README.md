@@ -22,11 +22,29 @@ I am a junior developer passionate about web technologies. I like to learn and l
 
 #### 2018-2020 Global Information Technology - CGI
 
-In Progress
+<details>
+  <summary>Show more</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log('Baby Don't hurt me. Don't hurt me');
+      return 'No more';
+    }
+  ```
+</details>
 
 #### June 2017 Getasound
 
-In Progress
+<details>
+  <summary>Show More</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log('Baby Don't hurt me. Don't hurt me');
+      return 'No more';
+    }
+  ```
+</details>
 
 ### HARD SKILLS
 
