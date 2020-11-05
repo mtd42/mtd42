@@ -2,7 +2,7 @@
 
 I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
 
-> I am currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
+> Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
 
 ### EDUCATION
 
