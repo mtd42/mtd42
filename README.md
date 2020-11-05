@@ -23,7 +23,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
 #### 2018-2020 Global Information Technology - CGI
 
 <details>
-  <summary>Show more</summary>
+  <summary>Read more</summary>
   
   ```javascript
     function whatIsLove() {
@@ -36,12 +36,12 @@ I am a junior developer passionate about web technologies. I like to learn and l
 #### June 2017 Getasound
 
 <details>
-  <summary>Show More</summary>
+  <summary>Read More</summary>
   
   ```javascript
-    function whatIsLove() {
-      console.log('Baby Don't hurt me. Don't hurt me');
-      return 'No more';
+    function hakunaMatata() {
+      console.log('What a wonderful phrase');
+      return "Ain't no passing craze";
     }
   ```
 </details>
