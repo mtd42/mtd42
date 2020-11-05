@@ -27,7 +27,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
   
   ```javascript
     function whatIsLove() {
-      console.log('Baby Don't hurt me. Don't hurt me');
+      console.log("Baby Don't hurt me. Don't hurt me");
       return 'No more';
     }
   ```
