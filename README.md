@@ -55,3 +55,6 @@ I am a junior developer passionate about web technologies. I like to learn and l
 ### SOFT SKILLS
 
 :surfer: Open-mindedness :fast_forward:Responsive 🧑🏻‍🤝‍🧑🏻 Teamwork 🎲 Problem-solving 🎨 Creativity
+
+### Badges
+![](https://komarev.com/ghpvc/?username=mtd42)
