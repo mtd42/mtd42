@@ -1,8 +1,8 @@
 ### About Me
 
-I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
+I am a junior web developer passionate about web technologies. I like to learn and learn from others. :heart:
 
-> Job status: currently looking for an international position please feel free to contact me at <a href="mailto:dorville.mathieu@gmail.com">Here</a>
+> Job status: currently looking for an international position please feel free to contact me. Where ? <a href="mailto:dorville.mathieu@gmail.com">Here</a>
 
 ### Favorite Stack
 | JAVASCRIPT                                                   | NODEJS                                                       | ANGULAR                                                      | DOCKER                                                       | SQL                                                          | CI/CD                                                        |
