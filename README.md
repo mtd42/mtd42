@@ -3,7 +3,9 @@ ABOUT ME
 
 I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
 
-> Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
+Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
+
+</p>
 
 EDUCATION
 
@@ -89,7 +91,7 @@ SOFT SKILLS
 :surfer: Open-mindedness :fast_forward:Responsive 🧑🏻‍🤝‍🧑🏻 Teamwork 🎲 Problem-solving 🎨 Creativity
 </details>
 
-</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
