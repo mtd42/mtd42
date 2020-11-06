@@ -9,16 +9,42 @@ I am a junior developer passionate about web technologies. I like to learn and l
 ### EDUCATION
 
 #### 2019-2021 - IT and Information System Expertise
-
-🎒 ​ Epsi 
+<details>
+  <summary>Read more</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log("Baby Don't hurt me. Don't hurt me");
+      return 'No more';
+    }
+  ```
+</details>
 
 #### 2018-2019 - Digital Application Designer and Developer
 
-🎒  Epsi
+<details>
+  <summary>Read more</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log("Baby Don't hurt me. Don't hurt me");
+      return 'No more';
+    }
+  ```
+</details>
 
 #### 2017-2018 - Web development
 
-🎒 ​ Greta
+<details>
+  <summary>Read more</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log("Baby Don't hurt me. Don't hurt me");
+      return 'No more';
+    }
+  ```
+</details>
 
 ### WORK EXPERIENCE
 
