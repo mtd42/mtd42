@@ -12,6 +12,7 @@ I am a junior web developer passionate about web technologies. I like to learn a
             <th align="center">JAVASCRIPT</th>
             <th align="center">NODEJS</th>
             <th align="center">ANGULAR</th>
+            <th align="center">UNIT TEST</th>
             <th align="center">DOCKER</th>
             <th align="center">SQL</th>
             <th align="center">GITLAB CI/CD</th>
@@ -21,10 +22,13 @@ I am a junior web developer passionate about web technologies. I like to learn a
         <tr>
             <td align="center"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" align="center" width="48px"></td>
             <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="center" width="72px"></td>
-            <td align="center"><img src ="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" align="center" width="48px"></td>
+            <td align="center"><img src ="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" align="center" width="62px"></td>
+            <td align="center"><img src ="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" align="center" width="62px"></td>
             <td align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" align="center" width="64px"> </td>
-            <td align="center"><img src ="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" align="center" width="56px"></td>
-            <td align="center"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" align="center" width="48px"></td>
+            <td align="center"><img src ="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" align="center" width="58px"></td>
+            <td align="center"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" align="center" width="58px"></td>
+            
+            
         </tr>
     </tbody>
 </table>
