@@ -1,11 +1,11 @@
-<p align="center">
-ABOUT ME
+<div>
+  <span style="color: red">ABOUT ME</span>
 
 I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
 
 Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
 
-</p>
+</div>
 
 EDUCATION
 
