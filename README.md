@@ -11,6 +11,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
 
 <br>
 <br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="center" />
 
