@@ -6,6 +6,8 @@ I am a junior web developer passionate about web technologies. I like to learn a
 
 ### Favorite Stack
 
+> These technologies are the ones that I master the best.
+
 <table>
     <thead>
         <tr>
@@ -30,6 +32,7 @@ I am a junior web developer passionate about web technologies. I like to learn a
         </tr>
     </tbody>
 </table>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="center" />
