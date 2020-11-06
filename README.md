@@ -52,14 +52,9 @@ I am a junior developer passionate about web technologies. I like to learn and l
 
 <details>
   <summary>Read More</summary>
-  ```
     🟨 Javascript 🟥 Angular 🐳 Docker 🗃️ SQL 🧪 Unit Testing :octocat: Continious delivery and deployment 🕹️ Git
-
-    This refers to the skills that i master the best. This does not prevent learning other technologies.
- ```
+    > This refers to the skills that i master the best. This does not prevent learning other technologies.
 </details>
-
-
 
 ### SOFT SKILLS
 
