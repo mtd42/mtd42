@@ -12,7 +12,7 @@ I am a junior web developer passionate about web technologies. I like to learn a
             <th align="center">JAVASCRIPT</th>
             <th align="center">NODEJS</th>
             <th align="center">ANGULAR</th>
-            <th align="center">UNIT TEST</th>
+            <th align="center">MOCHA</th>
             <th align="center">DOCKER</th>
             <th align="center">SQL</th>
             <th align="center">GITLAB CI/CD</th>
