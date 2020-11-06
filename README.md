@@ -1,13 +1,13 @@
 <p align="center">
-### ABOUT ME
+ABOUT ME
 
 I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
 
 > Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
 
-### EDUCATION
+EDUCATION
 
-#### 2019-2021 - IT and Information System Expertise
+2019-2021 - IT and Information System Expertise
 <details>
   <summary>Read more</summary>
   
@@ -19,20 +19,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
   ```
 </details>
 
-#### 2018-2019 - Digital Application Designer and Developer
-
-<details>
-  <summary>Read more</summary>
-  
-  ```javascript
-    function whatIsLove() {
-      console.log("Baby Don't hurt me. Don't hurt me");
-      return 'No more';
-    }
-  ```
-</details>
-
-#### 2017-2018 - Web development
+2018-2019 - Digital Application Designer and Developer
 
 <details>
   <summary>Read more</summary>
@@ -45,9 +32,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
   ```
 </details>
 
-### WORK EXPERIENCE
-
-#### 2018-2020 Global Information Technology - CGI
+2017-2018 - Web development
 
 <details>
   <summary>Read more</summary>
@@ -60,7 +45,22 @@ I am a junior developer passionate about web technologies. I like to learn and l
   ```
 </details>
 
-#### June 2017 Getasound
+WORK EXPERIENCE
+
+2018-2020 Global Information Technology - CGI
+
+<details>
+  <summary>Read more</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log("Baby Don't hurt me. Don't hurt me");
+      return 'No more';
+    }
+  ```
+</details>
+
+June 2017 Getasound
 
 <details>
   <summary>Read More</summary>
@@ -73,7 +73,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
   ```
 </details>
 
-### HARD SKILLS
+HARD SKILLS
 
 <details>
   <summary>Read More</summary>
@@ -81,7 +81,7 @@ I am a junior developer passionate about web technologies. I like to learn and l
     🟨 Javascript 🟥 Angular 🐳 Docker 🗃️ SQL 🧪 Unit Testing :octocat: Continious delivery and deployment 🕹️ Git
 </details>
 
-### SOFT SKILLS
+SOFT SKILLS
 
 <details>
   <summary>Read More</summary>
@@ -89,6 +89,8 @@ I am a junior developer passionate about web technologies. I like to learn and l
 :surfer: Open-mindedness :fast_forward:Responsive 🧑🏻‍🤝‍🧑🏻 Teamwork 🎲 Problem-solving 🎨 Creativity
 </details>
 
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-</p>
+
