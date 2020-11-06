@@ -1,14 +1,14 @@
-<p align="center">About me</p>
-<p align="center">
-I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
-Job status: currently looking for an international position please feel free to contact me at <a href="mailto:dorville.mathieu@gmail.com">Here</a>
-</p>
+### About Me
 
-Hard Skills
+I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
+
+> Job status: currently looking for an international position please feel free to contact me at <a href="mailto:dorville.mathieu@gmail.com">Here</a>
+
+### Hard Skills
 
 🟨 Javascript 🟥 Angular 🐳 Docker 🗃️ SQL 🧪 Unit Testing :octocat: Continious delivery and deployment 🕹️ Git
 
-Soft Skills
+### Soft Skills
   
 :surfer: Open-mindedness :fast_forward:Responsive 🧑🏻‍🤝‍🧑🏻 Teamwork 🎲 Problem-solving 🎨 Creativity
 
