@@ -1,5 +1,7 @@
 ### ABOUT ME
 
+
+
 I am a junior developer passionate about web technologies. I like to learn and learn from others. :heart:
 
 > Job status: currently looking for an international position please feel free to contact me at **dorville.mathieu@gmail.com**
@@ -48,14 +50,24 @@ I am a junior developer passionate about web technologies. I like to learn and l
 
 ### HARD SKILLS
 
-🟨 Javascript 🟥 Angular 🐳 Docker 🗃️ SQL 🧪 Unit Testing :octocat: Continious delivery and deployment 🕹️ Git
+<details>
+  <summary>Read More</summary>
+  ```
+    🟨 Javascript 🟥 Angular 🐳 Docker 🗃️ SQL 🧪 Unit Testing :octocat: Continious delivery and deployment 🕹️ Git
 
-> This refers to the skills that i master the best. This does not prevent learning other technologies.
+    This refers to the skills that i master the best. This does not prevent learning other technologies.
+ ```
+</details>
+
+
 
 ### SOFT SKILLS
 
+<details>
+  <summary>Read More</summary>
 :surfer: Open-mindedness :fast_forward:Responsive 🧑🏻‍🤝‍🧑🏻 Teamwork 🎲 Problem-solving 🎨 Creativity
+</details>
 
-### Badges
-<img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-![](https://komarev.com/ghpvc/?username=mtd42)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mtd42&show_icons=true&count_private=true" alt="stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /
