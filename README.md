@@ -4,7 +4,7 @@ I am a junior web developer passionate about web technologies. I like to learn a
 
 > Job status: currently looking for an international position please feel free to contact me : <a href="mailto:dorville.mathieu@gmail.com">dorville.mathieu@gmail.com</a>
 
-### Favorite Stack
+### Stack
 
 > These technologies are the ones that I master the best.
 
@@ -17,7 +17,6 @@ I am a junior web developer passionate about web technologies. I like to learn a
             <th align="center">MOCHA</th>
             <th align="center">DOCKER</th>
             <th align="center">SQL</th>
-            <th align="center">ELK</th>
             <th align="center">GITLAB CI/CD</th>
         </tr>
     </thead>
@@ -29,8 +28,22 @@ I am a junior web developer passionate about web technologies. I like to learn a
             <td align="center"><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="62px"></td>
             <td align="center"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="62px"></td>
             <td align="center"><img src="https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-512.png" width="58px"></td>
-            <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
             <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" width="58px"></td>
+        </tr>
+    </tbody>
+</table>
+
+> These technologies are the ones I'm learning right now
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">ELK</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
         </tr>
     </tbody>
 </table>
