@@ -24,7 +24,7 @@ I am a junior web developer passionate about web technologies. I like to learn a
             <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="center" width="72px"></td>
             <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" align="center" width="62px"></td>
             <td align="center"><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="62px"></td>
-            <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" width="64px"></td>
+            <td align="center"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="62px"></td>
             <td align="center"><img src="https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-512.png" width="58px"></td>
             <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" width="58px"></td>
         </tr>
