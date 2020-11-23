@@ -48,7 +48,6 @@ I'm a junior web developer passionate about web technologies. I like to learn, e
             <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
             <td align="center"><img src="https://blog.wescale.fr/content/images/2018/08/kubernetes.png" width="58px"></td>
             <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="58px"></td>
-            
         </tr>
     </tbody>
 </table>
