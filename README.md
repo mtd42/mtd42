@@ -28,7 +28,7 @@ I'm a junior web developer passionate about web technologies. I like to learn, e
             <td align="center"><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="62px"></td>
             <td align="center"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="62px"></td>
             <td align="center"><img src="https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-512.png" width="58px"></td>
-            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" width="58px"></td>
+            <td align="center"><img src="https://secrethub.io/img/gitlab-ci.png" width="58px"></td>
         </tr>
     </tbody>
 </table>
