@@ -2,7 +2,7 @@
 
 I'm a backend web developer passionate about web technologies. I like to learn, especially from others.. :heart:
 
-> Job status: I am currently looking for a job in an english speaking country to develop myself so please feel free to contact me : <a href="mailto:dorville.mathieu@gmail.com">dorville.mathieu@gmail.com</a>
+> Job status: Not available but you can contact me at : <a href="mailto:dorville.mathieu@gmail.com">dorville.mathieu@gmail.com</a>
 
 ### Stack
 
