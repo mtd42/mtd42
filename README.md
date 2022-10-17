@@ -41,6 +41,9 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
             <th align="center">ELK</th>
             <th align="center">KUBERNETES</th>
             <th align="center">TYPESCRIPT</th>
+            <th align="center">MONGODB</th>
+            <th align="center">SNOWFLAKE</th>
+            <th align="center">REDIS</th>
         </tr>
     </thead>
     <tbody>
@@ -48,6 +51,9 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
             <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
             <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fmixd%2F512%2F16_kubernetes-512.png&f=1&nofb=1&ipt=f0ba8e1653a7cfe8a215c26dd2e778465fe4857388a3b28b899b561a4a6f0da2&ipo=images" width="58px"></td>
             <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="58px"></td>
+            <td align="center"><img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" width="58px"></td>
+            <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbigeval.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2019%2F12%2Fsnowflake-500x500-1.png&f=1&nofb=1&ipt=51bafeef4746e8cbbbafa3519beca63e96d68398e63fe03dae87f35ef4a9be5d&ipo=images" width="58px"></td>
+            <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fredis-2%2F1451%2FUntitled-2-512.png&f=1&nofb=1&ipt=5d95a917be5c58e43cd5ee0db5c7d40fd44a24befe59084d9a093a5a35b52553&ipo=images" width="58px"></td>
         </tr>
     </tbody>
 </table>
