@@ -46,7 +46,7 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
     <tbody>
         <tr>
             <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
-            <td align="center"><img src="https://blog.wescale.fr/content/images/2018/08/kubernetes.png" width="58px"></td>
+            <td align="center"><img src="https://e7.pngegg.com/pngimages/36/png-clipart-google-cloud-platform-google-compute-engine-kubernetes-docker-container-blue-angle.png" width="58px"></td>
             <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="58px"></td>
         </tr>
     </tbody>
