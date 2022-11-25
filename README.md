@@ -55,7 +55,7 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
             <td align="center"><img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" width="58px"></td>
             <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbigeval.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2019%2F12%2Fsnowflake-500x500-1.png&f=1&nofb=1&ipt=51bafeef4746e8cbbbafa3519beca63e96d68398e63fe03dae87f35ef4a9be5d&ipo=images" width="58px"></td>
             <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fredis-2%2F1451%2FUntitled-2-512.png&f=1&nofb=1&ipt=5d95a917be5c58e43cd5ee0db5c7d40fd44a24befe59084d9a093a5a35b52553&ipo=images" width="58px"></td>
-                        <td align="center"><img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fredis-2%2F1451%2FUntitled-2-512.png&f=1&nofb=1&ipt=5d95a917be5c58e43cd5ee0db5c7d40fd44a24befe59084d9a093a5a35b52553&ipo=images](https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png)" width="58px"></td>
+                        <td align="center"><img src="https://img2.freepng.fr/20180723/aje/kisspng-amazon-com-amazon-web-services-logo-amazon-elastic-aws-logo-5b56315998d4a3.884772471532375385626.jpg" width="58px"></td>
         </tr>
     </tbody>
 </table>
