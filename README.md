@@ -38,7 +38,7 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
 <table>
     <thead>
         <tr>
-            <th align="center">ELK</th>
+            <th align="center">DATADOG</th>
             <th align="center">KUBERNETES</th>
             <th align="center">TYPESCRIPT</th>
             <th align="center">MONGODB</th>
@@ -48,7 +48,7 @@ I'm a backend web developer passionate about web technologies. I like to learn, 
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg" width="58px"></td>
+            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png" width="58px"></td>
             <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fmixd%2F512%2F16_kubernetes-512.png&f=1&nofb=1&ipt=f0ba8e1653a7cfe8a215c26dd2e778465fe4857388a3b28b899b561a4a6f0da2&ipo=images" width="58px"></td>
             <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="58px"></td>
             <td align="center"><img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" width="58px"></td>
